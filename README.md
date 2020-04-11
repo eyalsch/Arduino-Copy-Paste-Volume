@@ -7,4 +7,4 @@ Use the HID library - https://github.com/NicoHood/HID
 ![schematic](CopyPasteVolume.png)
 
 ## The Box
-![The Box](Box.png)
+![The Box](Box.jpg)
