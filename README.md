@@ -3,5 +3,8 @@ Copy, Paste and Volume Button with Arduino Pro Micro
 Use the HID library - https://github.com/NicoHood/HID
 
 
-Schematic
+## Schematic
 ![schematic](CopyPasteVolume.png)
+
+## The Box
+![The Box](Box.png)
